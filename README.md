@@ -1,6 +1,4 @@
 # Sentiment-Analysis-in-the-Public-Relations-Department
-# Case Study: Sentiment Analysis in the Public Relations Department
-
 ## Overview
 This project leverages Natural Language Processing (NLP) and machine learning techniques to automate sentiment analysis of customer reviews. By analyzing data collected from social media platforms and other sources, the goal is to determine whether customers are satisfied or not. This initiative aims to enhance customer experience and streamline feedback evaluation.
 
