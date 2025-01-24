@@ -11,13 +11,13 @@ This project leverages Natural Language Processing (NLP) and machine learning te
 
 ## Key Features
 1. **Task-Based Learning**:
-   - Task 1: Understand the problem statement and business case.
-   - Tasks 2-4: Import libraries, explore datasets, and clean data.
-   - Tasks 5-7: Remove punctuation, eliminate stop words, and tokenize text.
-   - Task 8: Apply text preprocessing techniques.
-   - Tasks 9-10: Implement Naive Bayes classifiers.
-   - Task 11: Evaluate the trained model’s performance.
-   - Task 12: Train and evaluate a Logistic Regression classifier as an alternative.
+   -  Understand the problem statement and business case.
+   -  Import libraries, explore datasets, and clean data.
+   -  Remove punctuation, eliminate stop words, and tokenize text.
+   -  Apply text preprocessing techniques.
+   -  Implement Naive Bayes classifiers.
+   -  Evaluate the trained model’s performance.
+   -  Train and evaluate a Logistic Regression classifier as an alternative.
 2. **Natural Language Processing**: Convert textual data into numerical formats for machine learning.
 3. **Sentiment Classification**: Automate identification of positive or negative customer sentiment.
 4. **Practical Insights**: Highlight the value of automating feedback analysis for large-scale data.
